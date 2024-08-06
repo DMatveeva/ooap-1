@@ -1,0 +1,1 @@
+В классе ParentQueue оставила названия методов enqueue, dequeue, а в эталоне оказались addTail и removeFront, что более логично, т.к. в Deque методы называются addFront, removeTail. Расхождений в пост- и пред- условиях нет.
